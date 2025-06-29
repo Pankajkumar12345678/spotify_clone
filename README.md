@@ -1,5 +1,5 @@
-## Spotify 2.0 Clone 🎶
-A powerful and sleek Spotify 2.0 Clone built with React.js, offering an immersive and enhanced music streaming experience. Browse songs, explore genres, manage playlists, and enjoy smooth audio playback with modern UI and seamless navigation.
+## Spotify 2.0 Clone Music App 🎶
+A powerful and sleek Spotify 2.0 Clone Music App built with React.js, offering an immersive and enhanced music streaming experience. Browse songs, explore genres, manage playlists, and enjoy smooth audio playback with modern UI and seamless navigation.
 
 ## 🚀 Features
 🎧 Player Controls: Play, pause, skip, seek, and volume control for a seamless listening experience.
